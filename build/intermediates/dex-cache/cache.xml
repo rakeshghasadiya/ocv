@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/rakesh/work/OpenCV-AndroidSamples/libraries/opencv/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ec594042c21d2198488009675bcb5081f68d0d8">
+        <dex dex="/Users/rakesh/work/OpenCV-AndroidSamples/app/build/intermediates/pre-dexed/debug/classes_25401d213c3dbee2d0c322cf4e7c434ff187b110.jar" />
+    </item>
+
+</items>
